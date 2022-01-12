@@ -109,7 +109,7 @@ header .login {
 
 .page4 {
   display: grid;
-  grid-template-columns: auto;
+  grid-template-columns: auto auto;
   place-items: center;
   column-gap: 1em;
 }
